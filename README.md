@@ -1,16 +1,26 @@
+
+![Marius Wink :)](https://c.tenor.com/X0W5o0qtnbcAAAAd/marius-tears-of-themis.gif)
+---
+
 ### Hi there 👋
 
-<!--
-**withlovedese/withlovedese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Adesemi Chloe Elumaro but my friends call me Dese or Semi (pronounced day-shay and shay-mee respectively).  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### I was born in the United States but have spent the better part of my childhood living in Nigeria (the country I consider to be my beautiful home), England, and India. I am currently a junior at Duke University doing my utmost best in studying Computer Science with a minor in Economics. Professionally, I aspire to be an entrepreneur and am really interested in exploring how the intersection of technology, education, and economics can help Nigeria and other developing countries and emerging markets play a larger role in the global economy. 
+
+##### NOW
+
+- ✨ Working on building websites for clients
+- 🧱 Building a webapp for my mom's clinic
+- 🌱 I’m currently learning all about **Front End Development**
+
+
+##### BIO
+
+- 🏢 I'm currently working at **Medicare Portugal**
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.java`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 😄 Pronouns: She, her, hers
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- ⚡️ Fun fact: I'm a fan of anime and gaming (mostly MMORPGs and JRPGs)
