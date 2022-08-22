@@ -18,7 +18,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
+-📍 I'm currently at **Lagos, Nigeria**
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`, `.java`
 - 🌍 I'm mostly active within the **AniManga community** on [anilist](https://anilist.co/user/withlovedese/)
 - 😄 Pronouns: She, her, hers
