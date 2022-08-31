@@ -13,7 +13,7 @@
 
 - ✨ Working on building websites for clients
 - 🧱 Building a webapp for my mom's clinic
-- 🌱 I’m currently learning all about **Front End Development**
+- 🌱 I’m currently learning all about **Fullstack Development**
 
 
 ##### BIO
