@@ -4,17 +4,7 @@
 
 ### Hi there 👋
 
-#### My name is Adesemi Chloe Elumaro but my friends call me Dese or Semi (pronounced day-shay and shay-mee respectively).  
-
-
-##### I was born in the United States but have spent the better part of my childhood living in Nigeria (the country I consider to be my beautiful home), England, and India. I am currently a junior at Duke University doing my utmost best in studying Computer Science with a minor in Economics. Professionally, I aspire to be an entrepreneur and am really interested in exploring how the intersection of technology, education, and economics can help Nigeria and other developing countries and emerging markets play a larger role in the global economy. 
-
-##### NOW
-
-- ✨ Working on building websites for clients
-- 🧱 Building a webapp for my mom's clinic
-- 🌱 I’m currently learning all about **Fullstack Development**
-
+#### My name is Adesemi Chloe Elumaro but my friends call me Dese (pronounced day-shay).  
 
 ##### BIO
 
